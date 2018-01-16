@@ -1,0 +1,24 @@
+{
+  "name": "media_scrap",
+  "version": "1.0.0",
+  "description": "Script made automate the download of pictures on a site and eventually will attempt to move into videos",
+  "main": "media.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivinano/media_scrapper.git"
+  },
+  "author": "Richard Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivinano/media_scrapper/issues"
+  },
+  "homepage": "https://github.com/vivinano/media_scrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "request": "^2.83.0"
+  }
+}
